@@ -27,10 +27,9 @@ Soy un analista de datos en formación con experiencia en proyectos reales de an
 
 ## 🌎 Sobre mí
 
-📍 México 🇲🇽  
-🧳 8 años de experiencia internacional en hospitalidad (Royal Caribbean)  
+📍 México 🇲🇽   
 💬 Inglés fluido y excelentes habilidades de comunicación  
-📈 Buscando mi primera oportunidad como analista de datos remoto
+📈 analista de datos remoto
 
 ---
 
@@ -72,10 +71,9 @@ I'm a data analyst in training with hands-on experience in real projects involvi
 
 ## 🌎 About Me
 
-📍 Based in Mexico 🇲🇽  
-🧳 8 years of international experience in hospitality (Royal Caribbean)  
+📍 Based in Mexico 🇲🇽    
 💬 Fluent in English, strong communication skills  
-📈 Seeking my first remote opportunity as a Data Analyst
+📈 Data Analyst
 
 ---
 
